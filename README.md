@@ -1,7 +1,6 @@
 # Eye Movement Exercise
 
-Watch the eyes follow the cursor around the browser window! This assigned exercise from Week 8 of MIT's Professional Certificate in Coding helped pull together some of the concepts we had learned in CSS, Javascript and HTML. The code makes use of an "on mouse move" event and the eyes are simple CSS shapes. I added a background image from Unsplash to liven it up a bit (photo by S O C I A L . C U T)
-
+Watch the eyes follow the cursor around the browser window! This assigned exercise from Week 8 of MIT's Professional Certificate in Coding helped pull together some of the concepts we had learned in CSS, Javascript and HTML. The code makes use of an "on mouse move" event and the eyes are simple CSS shapes. I added a background image from Unsplash to liven it up a bit (photo by [S O C I A L . C U T](https://unsplash.com/@socialcut?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
 ![](eye_exercise.gif)
 
